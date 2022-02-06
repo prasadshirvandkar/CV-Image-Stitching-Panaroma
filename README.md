@@ -20,4 +20,4 @@ Only APIs provided by numpy and opencv, except “cv2.findHomography()” and
 APIs that have “stitch”, “Stitch”, “match” or “Match” in their names, e.g., “cv2.BFMatcher()” and
 “cv2.Stitcher.create()” are used.
 
-![imagestitching](screenshot1.png)
+![imagestitching](imagestitched.png)
